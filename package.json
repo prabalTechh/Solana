@@ -1,0 +1,17 @@
+{
+  "name": "day-10((sol-exch)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0",
+    "dotenv": "^16.4.7"
+  }
+}
